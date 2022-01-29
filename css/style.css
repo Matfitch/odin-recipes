@@ -1,3 +1,23 @@
-*{
-    background-color: #264653;
+.bdy-conten{
+    background-image: linear-gradient(65deg, #0393ac 0, #246d82 25%, #264653 70%, #1c2326 75%, #0a0000 100%);
+}
+.msg-cocina{
+    font-family: monospace; 
+    font-size: 30px; 
+    background-color: #355D82; 
+    width: autos; 
+    border-radius: 10px; 
+    width: 50%;
+}
+.tl-indice{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 40px;
+}
+.dv-conten{
+    font-family: monospace; 
+    font-size: 30px; 
+    background-color: #1d3557; 
+    width: autos; 
+    border-radius: 10px; 
+    width: 50%;
 }
